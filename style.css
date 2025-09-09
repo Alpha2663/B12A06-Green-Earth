@@ -1,0 +1,18 @@
+/* google font  */
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+/* daisy ui  */
+@import "tailwindcss";
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.transition-colors {
+  transition: background-color 0.3s, color 0.3s;
+}
