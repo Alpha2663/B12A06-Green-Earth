@@ -14,5 +14,5 @@
 }
 
 .transition-colors {
-  transition: background-color 0.3s, color 0.4s;
+  transition: background-color 0.3s, color 0.3s;
 }
